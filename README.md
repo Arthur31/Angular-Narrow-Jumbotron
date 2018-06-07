@@ -1,5 +1,9 @@
 # NarrowTemplate
 
+This project is an integration of Narrow Jumbotron Bootstrap's theme (https://getbootstrap.com/docs/3.3/examples/jumbotron-narrow/#)
+
+I've also include a 404 page
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
 ## Development server
